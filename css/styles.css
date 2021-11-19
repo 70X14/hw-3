@@ -25,7 +25,7 @@ body{
     font-size: 14px;
     letter-spacing: 0.03em;
     color: var(--second-title-color);
-    background-color: var(--first-body-background-color);
+    background-color: var(--third-body-background-color);
 }
 
 .body-background2{
